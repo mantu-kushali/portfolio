@@ -43,7 +43,7 @@ const Contact = () => {
           <div className="social-icons">
 
             <a
-              href="https://github.com/mantukushali-cmyk"
+              href="https://github.com/mantu-kushali"
               target="_blank"
               rel="noreferrer"
             >
